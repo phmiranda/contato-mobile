@@ -1,0 +1,22 @@
+# Comentário.
+.idea/
+.vscode/
+
+# Comentário.
+build.gradle
+local.properties
+gradle.properties
+settings.gradle
+
+# Comentário.
+/build
+/captures
+/local.properties
+
+
+# Comentário.
+*.iml
+.gradle
+.DS_Store
+.externalNativeBuild
+.cxx
